@@ -1,9 +1,9 @@
 import pandas as pd
 from twilio.rest import Client
 # Your Account SID from twilio.com/console
-account_sid = "ACcdd703ce4491490a196629b543af6a1c"
+account_sid = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 # Your Auth Token from twilio.com/console
-auth_token  = "834a3fac8356ebd8b36122da099b8550"
+auth_token  = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 client = Client(account_sid, auth_token)
 # Pandas - integração do python com exel
 # Openpyxl - integração do python com exel
